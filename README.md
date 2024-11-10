@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Santoshkumbhkar1
 - 👀 I’m interested in  web application , java application .
 - 🌱 I’m currently learning  advance java ,web development (MERN Technology).
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on opersource projects  , AWS projects  ,machine learning projects , and new startup ideas.
 - 📫 How to reach me   by linkedin or github;
 
 <!---
